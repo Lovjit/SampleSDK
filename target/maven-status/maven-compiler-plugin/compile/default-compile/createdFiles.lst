@@ -1,0 +1,4 @@
+com/cw/request/fetch/RestUtil.class
+com/cw/request/fetch_by_type_and_id/FetchAssetByTypeAndIdService.class
+com/cw/request/fetch/FetchAssetService.class
+com/cw/request/fetch/VidyardIntegrationService.class
